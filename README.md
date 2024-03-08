@@ -6,3 +6,4 @@ My Codes for Problem Solving on LeetCode with Cpp and Java
 1. [Algorithms I - C++](https://leetcode.com/study-plan/algorithm/)
 1. [techinterviewhandbook.org - Java](https://www.techinterviewhandbook.org/grind75?weeks=10&hours=9)
 1. [30 Days of JS -  TypeScript](https://leetcode.com/studyplan/30-days-of-javascript/)
+1. [Intro to Pandas - Python](https://leetcode.com/studyplan/introduction-to-pandas/)
